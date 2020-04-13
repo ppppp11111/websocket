@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/websocketeureka/hello-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/websocketeureka/hello-spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocketdependenies/ideaworkspace.iml" filepath="$PROJECT_DIR$/websocketdependenies/ideaworkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/websocket.iml" filepath="$PROJECT_DIR$/.idea/websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocketdependenies/websocketdependenies.iml" filepath="$PROJECT_DIR$/websocketdependenies/websocketdependenies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocketeureka/websocketeureka.iml" filepath="$PROJECT_DIR$/websocketeureka/websocketeureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocketprovider/websocketprovider.iml" filepath="$PROJECT_DIR$/websocketprovider/websocketprovider.iml" />
+    </modules>
+  </component>
+</project>
